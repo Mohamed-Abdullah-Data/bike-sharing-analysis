@@ -32,6 +32,10 @@ This dataset was later used to build:
 - Python (pandas)
 - Excel (final dataset export)
 - Tableau (for visualization)
+  
+![Tableau Viz Example](https://github.com/Mohamed-Abdullah-Data/bike-sharing-analysis/blob/0f666bd815bd1464fd0be753df9a2425824d7591/Screenshot%202025-09-01%20093756.png)
+![Tableau Viz Example](https://github.com/Mohamed-Abdullah-Data/bike-sharing-analysis/blob/0f666bd815bd1464fd0be753df9a2425824d7591/Screenshot%202025-09-01%20093820.png)
+![Tableau Viz Example](https://github.com/Mohamed-Abdullah-Data/bike-sharing-analysis/blob/0f666bd815bd1464fd0be753df9a2425824d7591/Screenshot%202025-09-01%20093832.png)
 
 ## 📧 Author
 Created by *Mohamed Abdullah* – aspiring Data Analyst / Data Scientist.
